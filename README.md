@@ -12,3 +12,12 @@
    ```bash
    git clone https://github.com/sabalakov/data_structures_unittests.git
    cd data_structures_unittests
+
+2.Соберите проект:
+bash
+mkdir build && cd build
+cmake .. && make
+
+Запустите тесты:
+bash
+./run_tests
