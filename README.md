@@ -14,10 +14,10 @@
    cd data_structures_unittests
 
 2.Соберите проект:
-bash
+```bash
 mkdir build && cd build
 cmake .. && make
 
 Запустите тесты:
-bash
+```bash
 ./run_tests
